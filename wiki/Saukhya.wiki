@@ -1,0 +1,12 @@
+#labels Phase-Support,Phase-Deploy,Phase-Requirements
+
+
+Saukhya - Pro A healthcare management system enables fast, accurate and automated collection of patient data and subsequent report generation, and is ideal for small general hospitals.
+	 
+
+ 	
+
+
+Saukhya - Pro is a user-friendly, Hospital Information System that automates the entire spectrum of general hospital activities such as the patient history, physical examination, progress notes, prescriptions, lab tests and results.
+	 
+  	 
